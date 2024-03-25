@@ -3,8 +3,8 @@ name: Update TV Shows and Movies List
 on:
   push:
     paths:
-      - 'tv_shows.txt'
-      - 'movies.txt'
+      - 'tv_shows'
+      - 'movies'
 
 jobs:
   update_list:
