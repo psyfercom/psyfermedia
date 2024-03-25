@@ -1,0 +1,28 @@
+name: Update TV Shows and Movies List
+
+on:
+  push:
+    paths:
+      - 'tv_shows.txt'
+      - 'movies.txt'
+
+jobs:
+  update_list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update TV Shows List
+        if: ${{ github.event_name == 'push' && contains(github.event.head_commit.message, '[TV]') }}
+        run: |
+          python update_list.py tv_shows.txt
+
+      - name: Update Movies List
+        if: ${{ github.event_name == 'push' && contains(github.event.head_commit.message, '[Movie]') }}
+        run: |
+          python update_list.py movies.txt
