@@ -35,6 +35,25 @@ The main contents of this repository are organized into two sections:
     - [ ] 
   - **Movies:**
     - [x] 13 Going On 30
+   
+## How This Repo Works
+
+This repository serves as a centralized catalog for organizing and managing your collection of TV shows and movies. Here's how it works:
+
+1. **Organization**: The repository is organized into two main sections: "Download Pending" and "Completed." Each section is further divided into subsections for TV shows and movies.
+
+2. **Adding Entries**: To add a new TV show or movie to the list, simply append its title to the appropriate section in the respective file (`tv_shows.txt` or `movies.txt`). Make sure to follow the formatting guidelines provided in the file.
+
+3. **Updating Entries**: When you've downloaded or watched a TV show or movie from the "Download Pending" section, move the entry to the appropriate section in the file (`tv_shows.txt` or `movies.txt`) under "Completed."
+
+4. **GitHub Actions**: The repository is configured with GitHub Actions to automate certain tasks. When you push changes to the repository, the actions trigger scripts that search for additional information about the added TV show or movie, such as posters or IMDb ratings. This information is then appended to the appropriate file.
+
+5. **Contributions**: Contributions and suggestions for new TV shows and movies are welcome! If you have recommendations or want to collaborate on adding content, feel free to submit a pull request or open an issue.
+
+6. **License**: This repository is licensed under the MIT License, granting you the freedom to use, modify, and distribute the content.
+
+By using this repository, you can easily keep track of your entertainment preferences and ensure that your collection remains organized and up to date.
+
 
 ### Contributing
 
