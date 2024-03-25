@@ -19,13 +19,22 @@ In this digital age, entertainment options are vast and varied. Keeping track of
 
 The main contents of this repository are organized into two sections:
 
-- **Download Pending:** This section lists TV shows and movies I've yet to download. Each entry includes the title and any relevant notes or preferences.
-  - [x] How I Met Your Mother
-  - [ ] 
-  - [ ] 
-  - [ ] 
+- **Download Pending:**
+  - **TV Shows:**
+    - [x] How I Met Your Mother
+    - [ ] 
+    - [ ] 
+    - [ ] 
+  - **Movies:**
+    - [ ] 
+    - [ ] 
+    - [ ] 
 
-- **Completed:** Here, you'll find a list of TV shows and movies I've already downloaded as torrents and watched. Similar to the "Download Pending" section, each entry includes the title and any additional notes.
+- **Completed:**
+  - **TV Shows:**
+    - [ ] 
+  - **Movies:**
+    - [x] 13 Going On 30
 
 ### Contributing
 
@@ -38,4 +47,18 @@ To add a TV show or movie:
 
 ## Contributing
 
-Contributions are what make the open-source community such a vibrant and exciting place. Any contributions
+Contributions are what make the open-source community such a vibrant and exciting place. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+Happy watching! 🎬🍿
