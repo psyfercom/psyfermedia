@@ -1,4 +1,4 @@
-# My TV Shows and Movies Collection
+# psyfermedia - My TV and Movie Collection
 
 Welcome to my repository where I curate a list of TV shows and movies I'm interested in watching or have already downloaded as torrents. This repository serves as my personal catalog, making it easy for me to keep track of what I want to watch and what I've already enjoyed.
 
@@ -44,16 +44,6 @@ To add a TV show or movie:
 1. Fork this repository.
 2. Edit the README.md file to include the new entry.
 3. Submit a pull request detailing the changes.
-
-## Contributing
-
-Contributions are what make the open-source community such a vibrant and exciting place. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
