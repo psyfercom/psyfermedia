@@ -26,9 +26,10 @@ The main contents of this repository are organized into two sections:
     - [ ] The Simpsons Season 7
     - [ ] RISE
     - [ ] 
+    - [ ] 
   - **Movies:**
     - [ ] Fear and Loathing in Las Vegas
-    - [ ] 
+    - [ ] Fight Club
     - [ ] 
 
 - **Completed:**
