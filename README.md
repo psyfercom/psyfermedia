@@ -24,6 +24,7 @@ The main contents of this repository are organized into two sections:
     - [x] How I Met Your Mother
     - [ ] Star Trek: Voyager
     - [ ] The Simpsons Season 7
+    - [ ] RISE
     - [ ] 
   - **Movies:**
     - [ ] Fear and Loathing in Las Vegas
